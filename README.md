@@ -1,4 +1,4 @@
 # Walkers
 Algorithm for traversing a table
 
-Explanation [here.](http://samuelblake.net/drunk.lua)
+Explanation [here.](http://samuelblake.net/drunk)
